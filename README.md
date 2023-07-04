@@ -42,6 +42,7 @@ To run the notebooks and reproduce the analysis, ensure you have the following d
 Python 
 Jupyter Notebook or JupyterLab
 Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn,Plotly etc.)
+
 ######################################################################
 
 TASK 3 - EMAIL SPAM DETECTION WITH MACHINE LEARNING
